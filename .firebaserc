@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "og-codes",
+    "og-codes": "og-codes"
+  }
+}

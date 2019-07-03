@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS=""/Users/njeri/Desktop/og-codes-firebase-adminsdk-15pxf-76452f4c5b.json""
